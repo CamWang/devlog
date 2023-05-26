@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Devlog"
-  text: "Blogs from my developer life"
+  text: "Blogs from my developer journey"
   tagline: My great project tagline
   actions:
     - theme: brand
